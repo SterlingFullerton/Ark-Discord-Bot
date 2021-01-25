@@ -1,0 +1,5 @@
+discord.py
+python-valve
+paramiko
+pytz
+python-dateutil
