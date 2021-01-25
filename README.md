@@ -1,5 +1,3 @@
-#Rumor-Bot
-
 A Discord Bot for assisting in RP on an ARK server.
 
 This was written for the [AWR RP Server](https://discord.gg/WRjZ4Ep)
